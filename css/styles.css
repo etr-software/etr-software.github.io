@@ -1,12 +1,17 @@
 body{
- background-color: firebrick;
     text-align: center;
 }
 
 h1{
     color: rebeccapurple;
+    font-family: 'Francois One', sans-serif;
 }
 
 P{ 
     color: coral;
+    font-family: 'Acme', sans-serif;
+}
+
+ul{
+    
 }
